@@ -45,6 +45,7 @@ public class Principal {
         for(String x : list){   
             System.out.println(x);
         }
+        System.out.println("test");
         
         
         sc.close();
